@@ -8,6 +8,7 @@ software yang harus terinstall di laptop
 	- PyQtChart qt5 5.15.2
 	- Paho-mqtt 1.6.1
 5. Arduino IDE : editor program microcontroller
+   	- pubsubclient.zip 
 
 list pin led 
 #define SSR_L (9)
